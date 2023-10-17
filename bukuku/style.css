@@ -1,0 +1,10 @@
+.card-category {
+  position: absolute;
+  top: 0;
+  end: 0;
+  background: rgb(90, 76, 58);
+  color: rgb(71, 114, 114);
+  padding: 3px 7px;
+  opacity: 0.85;
+  z-index: 1; /* Mengatur elemen ini berada di atas elemen lain */
+}
